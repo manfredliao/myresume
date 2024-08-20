@@ -1,9 +1,9 @@
 title: Title of your CV site
-profile_img: /assets/img/profile.webp
+profile_img: /assets/img/profile.png
 icon_img: /assets/img/icon.webp
 
-name: "Your Name Here"
-job: "〈Your Job Here〉"
+name: "喵是廖逗逗"
+job: "〈三喵統帥〉"
 
 phone_number: 012-345-6789
 address: City, Country
@@ -18,7 +18,8 @@ blog_url: homepage-url
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
-baseurl:
+url: "https://manfredliao.github.io"
+baseurl: "/myresume"
 
 exclude:
   - _posts/
