@@ -1,13 +1,22 @@
-subject: Awards
+subject: Awards and Certifications
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: ECC CEH
+    description: EC-Council Certified Ethical Hacker
+    date: Jun. 2024
+  - title: ECC CASE - Java 
+    description: EC-Council Certified Application Security Engineer
+    date: Sep. 2023 
+  - title: ISO/IEC 27001:2022 ISMS LA 
+    description: Information Security, Cybersecurity and Privacy Protection
+    date: Jun. 2023   
+  - title: ISC2 CISSP
+    description: Certified Information Systems Security Professional
+    date: Dec. 2022
+  - title: SCJP SCWCD
+    description: Sun Certified Java Programmer / Web Component Developer
+    date: Nov. 2007
+  - title: Cyber Blue Range Competition
+    description: 參加數發部資安署暨國家資通安全研究院舉辦之「112年度資安威脅防禦競賽」
+    date: Nov. 2023
