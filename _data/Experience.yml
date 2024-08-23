@@ -1,31 +1,22 @@
-subject: 經歷 Experiences
+subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: 國營臺灣鐵路股份有限公司
-    role: 資訊中心副主任、數位發展處副處長 Deputy Director
+  - title: Nanosoft
+    role: Project Manager
     description:
-      - 負責督導IT基礎設施建置與維運、應用系統發展及資通安全推動，確保IT與OT系統穩定可靠。
-      - 推動資訊系統優化及數位轉型，特別是第4代票務系統及車輛維修管理
-      - Ensure the IT and OT systems to be secure, reliable and resilient to support 16,000 employees and run 1,100 trains daily over 1,065 kilometers railways network which serves an average of 750,000 passengers each day.
-    date: Oct. 2017 - Jun. 2024
-  - title: 交通部臺灣鐵路管理局
-    role: 資訊中心組長、系統分析師 Chief / System Analyst
+      - Led development of a new chatbot software utilizing large language model
+      - Co-designer of '*Kopilot*' and '*Gemmini*'
+    date: Jan. 2024 - Ongoing
+  - title: Amazone
+    role: Senior Software Engineer
     description: 
-      - 持續推動 ISO 27001 ISMS 國際標準，導入至全機關各部門、各場域，包括58個分支機構、207個車站。同時擴充驗證範圍納入中央行車控制(CTC)系統、票務系統、資訊中心主要及備援機房，並且成功取得認證。
-      - 遵循國家資通安全法，原服務事業機關(臺鐵公司)為資通安全責任等級分級辦法規範之「A級機關」，本人負責制定、審查資安管理政策、程序及表單，辦理資安事件通報及應變、內部稽核及其他應辦事項，包含源碼掃描、資安健診、滲透測試及社交工程演練等。
-      - Extended the ISMS scopes of compliance framework to organization-wide, including development, operation management for the integrated ticketing systems.
-      - Drove TRA to comply with National Cyber Security Program of Taiwan promoted by National Information and Communication Security Taskforce, NICST.
-    date: Sep. 2009 - Oct. 2017
-  - title: 交通部臺灣鐵路管理局
-    role: 電腦作業師、主任設計師 System Administrator / Senior Developer
+      - Built a Java microservice, database schema to manage customer accounts
+      - Enhanced internal pipelines to query real-time data from client devices
+    date: Apr. 2016 - Dec. 2018
+  - title: Pacebook
+    role: Software Engineer Intern
     description: 
-      - 主辦ISO/IEC 27001 ISMS(Information Security Management System)國際標準之導入與推動，初期以中央行車控制(CTC)系統為主要驗證範圍，成功取得認證。
-      - Instituted the overall compliance framework to implement information security management system (ISMS) and conducted ISO/IEC 27001 practices. The scopes cover operation and management of the centralized traffic control (CTC) main system.
-    date: Mar. 2007 - Sep. 2009
-  - title: 交通部臺灣鐵路管理局
-    role: 程式設計師 Programmer
-    description: 
-      - 使用 Oracle Developer 2000 Forms/Reports Builder框架自行設計開發並維護Client/Server 主從架構之會計系統、材料管理及維修系統。相關主從架構之系統一直運轉至民國108年，本人擔任資訊部門副主管時，推動專案移轉成三層式Web架構。
-      - Managed software development, deployment and support by using Oracle Developer 2000 Forms/Reports Builder toolsets in workflows of design, coding and testing. Which included the financial accounting information system (FAIS), maintenance and material information system (MMIS).
-    date: Apr. 2001 - Mar. 2007  
+      - Designed the dynamic website using React for data visualization
+      - Integrated '*Yolo*' to boost the accuracy of the object detection
+    date: Jul. 2013 - Sep. 2013
