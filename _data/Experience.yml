@@ -6,7 +6,7 @@ contents:
     role: 資訊中心副主任、數位發展處副處長 Deputy Director
     description:
       - 負責督導IT基礎設施建置與維運、應用系統發展及資通安全推動，確保IT與OT系統穩定可靠。
-      - 推動資訊系統優化及數位轉型，特別是第4代票務系統及車輛維修管理
+      - 推動資訊系統優化及數位轉型，特別是第4代票務系統及車輛維修管理，在1,065公里之鐵路上，支援1萬6千名員工每日平均運行服務1,100列次火車，服務75萬旅客。
       - Ensure the IT and OT systems to be secure, reliable and resilient to support 16,000 employees and run 1,100 trains daily over 1,065 kilometers railways network which serves an average of 750,000 passengers each day.
     date: Oct. 2017 - Jun. 2024
   - title: 交通部臺灣鐵路管理局
@@ -26,6 +26,6 @@ contents:
   - title: 交通部臺灣鐵路管理局
     role: 程式設計師 Programmer
     description: 
-      - 使用 Oracle Developer 2000 Forms/Reports Builder框架自行設計開發並維護Client/Server 主從架構之會計系統、材料管理及維修系統。相關主從架構之系統一直運轉至民國108年，本人擔任資訊部門副主管時，推動專案移轉成三層式Web架構。
+      - 使用 Oracle Developer 2000 Forms/Reports Builder框架自行設計開發並維護Client/Server 主從架構之會計系統、材料管理及維修系統。相關主從架構之系統一直運轉至民國108年，移轉改版為三層式Web架構。
       - Managed software development, deployment and support by using Oracle Developer 2000 Forms/Reports Builder toolsets in workflows of design, coding and testing. Which included the financial accounting information system (FAIS), maintenance and material information system (MMIS).
     date: Apr. 2001 - Mar. 2007  

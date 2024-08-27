@@ -1,18 +1,18 @@
-subject: Research
+subject: 關注 Concentrated
 listing-order: 7
 icon: "/assets/img/flask.svg"
 contents:
-  - title: NIST
+  - title: "![NIST](assets/img/NIST_logo.svg.png)"
     description: 
       - "SP 800-53 Security and Privacy Controls for Information Systems and Organizations"
       - "SP 800-61 Computer Security Incident Handling Guide"
       - "SP 800-82r2 Guide to Industrial Control Systems (ICS) Security"
       - "SP 800-160v1 Engineering Trustworthy Secure Systems"
       - "SP 800-160v2 Developing Cyber-Resilient Systems"
-  - title: OWASP
+  - title: "![OWASP](assets/img/owasp_logo.png)"
     description:
       - Secure Coding Practices Quick Reference Guide
       - Software Assurance Maturity Model
-  - title: SAFECode
+  - title: "![SAFECode](assets/img/SAFECode-Horizontal-RGB.webp)"
     description:
       - Practical Security Stories and Security Tasks for Agile Development Environments

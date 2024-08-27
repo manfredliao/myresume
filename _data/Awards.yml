@@ -1,4 +1,4 @@
-subject: Awards and Certifications
+subject: 證照 Awards and Certifications
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
@@ -11,7 +11,7 @@ contents:
   - title: ISO/IEC 27001:2022 ISMS LA 
     description: Information Security, Cybersecurity and Privacy Protection
     date: Jun. 2023   
-  - title: ISC2 CISSP
+  - title: "[ISC2 CISSP](https://www.credly.com/badges/10f265b6-16db-48ee-9d82-4ba062293229 'my badge')"
     description: Certified Information Systems Security Professional
     date: Dec. 2022
   - title: SCJP SCWCD

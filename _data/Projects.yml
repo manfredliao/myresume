@@ -1,0 +1,31 @@
+subject: 專案 Projects
+listing-order: 3
+icon: "/assets/img/clipboard-list.svg"
+contents:
+  - title: "資通安全檢測評估 Cyber Security Evaluation"
+    description: 
+      - 配合行政院資安處、技服中心(現國家資通安全研究院)及國際資安顧問團隊推動[公私協作聯防強化企業資安專案](https://www.nics.nat.gov.tw/latest_news/announcements/Latest_Announcement/1733/)。
+      - 辦理為期4個月之「關鍵基礎設施資通安全檢測」專案，進行網路架構檢視、日誌分析、網路封包分析及終端設備安全診斷等作業，偵查發現Malware及IOCs (Indicators of compromise) 計145項，並加以清除、改善及持續追蹤，圓滿達成任務。
+    image: 
+  - title: "勒索軟體事件應變 Incident Response - Ransomware"
+    description: 
+      - ○○○年10月底接獲情資，[RedPacket Security](https://www.redpacketsecurity.com/)網站報導，機關疑似遭到LockBit 3.0勒索軟體的攻擊，威脅若不交付贖金將在1週後「公開檔案」。
+      - 本人為資安事件應變小組主管， 對外負責通報事業主管機關、資通安全署及台北市調查處，對內報告機關資安長及首長。督導同仁持續1個星期不斷就機關內主機及個人電腦工作站加強掃描，比對勒索軟體特徵碼並搜尋是否有駭客遺留之勒索文件。
+      - 掃描6500台電腦結果並無發現任何遭勒索的訊息指紋，相關信箱亦無收到勒索信件。最後到勒索期限截止時，網路上並無所謂被駭客公開之機敏資料，證實為虛驚一場，不過全機關動員很多人力，歷經一次逼真的資安事件通報與應變演練。我個人更覺得需要不斷精進資安事件偵測、調查與數位鑑識、跡證分析之技能。
+    image: '<img src="assets/img/LockBit3.png" alt="LockBit3.0" width="224" height="111">
+           <img src="assets/img/Redpacketsecurity-small-logo.webp" alt="Redpacket" width="106" height="111">'
+  - title: "導入SIEM和SOC"
+    description: 
+      - 逐年編列預算自建SIEM（安全資訊與事件管理）和SOC（安全監控中心）並與資安專業廠商(MSSP)協同營運，以因應嚴峻的資訊安全威脅和風險。
+      - 並導入資通安全弱點通報系統(Vulnerability Analysis and Notice System, VANS)結合資訊資產管理與弱點管理，掌握公司整體風險情勢。
+    image: '
+           <img src="assets/img/ArcSight_logo.svg.png" alt="ArcSight" width="165" height="48"> &nbsp; &nbsp;
+           <img src="assets/img/Splunk_logo.svg.png" alt="Splunk" width="165" height="48">
+           '           
+  - title: "[票務系統整合再造計畫](https://www.railway.gov.tw/)"
+    description:
+      - 協同主持第4代票務系統之規劃、設計與建置，負責跨部門協調工作，本專案投資逾10億元、期程三年，於108年4月順利上線。
+      - 專案範圍包含主要/異地機房、票務核心系統、窗口及自動售票、旅客服務入口網、多元支付及電子商務、行動應用等。
+    image: '
+           <a href="https://play.google.com/store/apps/details?id=tw.gov.tra.twtraffic&hl=zh_TW&pli=1"> <img src="assets/img/tra_eticket_s.png" alt="tra_eticket" > </a>''
+           '
