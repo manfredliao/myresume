@@ -12,8 +12,8 @@ contents:
       - ○○○年10月底接獲情資，[RedPacket Security](https://www.redpacketsecurity.com/)網站報導，機關疑似遭到LockBit 3.0勒索軟體的攻擊，威脅若不交付贖金將在1週後「公開檔案」。
       - 本人為資安事件應變小組主管， 對外負責通報事業主管機關、資通安全署及台北市調查處，對內報告機關資安長及首長。督導同仁持續1個星期不斷就機關內主機及個人電腦工作站加強掃描，比對勒索軟體特徵碼並搜尋是否有駭客遺留之勒索文件。
       - 掃描6500台電腦結果並無發現任何遭勒索的訊息指紋，相關信箱亦無收到勒索信件。最後到勒索期限截止時，網路上並無所謂被駭客公開之機敏資料，證實為虛驚一場，不過全機關動員很多人力，歷經一次逼真的資安事件通報與應變演練。我個人更覺得需要不斷精進資安事件偵測、調查與數位鑑識、跡證分析之技能。
-    image: '<img src="assets/img/LockBit3.png" alt="LockBit3.0" title="履歷不宜記載真實事件" width="224" height="111">
-           <img src="assets/img/Redpacketsecurity-small-logo.webp" alt="Redpacket" title="履歷僅記載虛驚事件" width="106" height="111">'
+    image: '<img src="assets/img/LockBit3.png" alt="LockBit3.0" title="LockBit" width="224" height="111">
+           <img src="assets/img/Redpacketsecurity-small-logo.webp" alt="Redpacket" title="Redpacket" width="106" height="111">'
   - title: "導入SIEM和SOC"
     description: 
       - 逐年編列預算自建SIEM（安全資訊與事件管理）和SOC（安全監控中心）並與資安專業廠商(MSSP)協同營運，以因應嚴峻的資訊安全威脅和風險。
